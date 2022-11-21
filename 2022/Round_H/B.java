@@ -1,6 +1,6 @@
 /*
  * Problem Link: https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb1b6/0000000000c47e79
- * Magic Well Of Lillies
+ * Magical Well Of Lillies
  */
 
 import java.util.*;
